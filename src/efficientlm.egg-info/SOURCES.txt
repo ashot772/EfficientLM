@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/efficientlm/__init__.py
+src/efficientlm.egg-info/PKG-INFO
+src/efficientlm.egg-info/SOURCES.txt
+src/efficientlm.egg-info/dependency_links.txt
+src/efficientlm.egg-info/top_level.txt
+src/efficientlm/compression/__init__.py
+src/efficientlm/data/__init__.py
+src/efficientlm/evaluation/__init__.py
+src/efficientlm/training/__init__.py
